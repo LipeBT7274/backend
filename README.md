@@ -24,5 +24,5 @@ Este projeto é uma **API REST** desenvolvida em **Node.js** com **Express** e *
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/loja-fullstack.git
+   git clone https://github.com/LipeBT7274/loja-fullstack.git
    cd backend
